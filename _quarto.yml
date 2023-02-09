@@ -1,0 +1,22 @@
+project:
+   type: book
+   output-dir: docs
+
+book:
+   title: "Title"
+   author: "Author"
+   chapters:
+		- index.qmd
+		- dico2.qmd
+		- facio1.qmd
+		- habeo1.qmd
+		- sum1.qmd
+
+format:
+   html:
+      theme: cosmo
+      css: www/styles.css
+      toc: TRUE
+      toc-depth: 3
+
+editor: visual

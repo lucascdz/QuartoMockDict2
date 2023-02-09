@@ -1,0 +1,67 @@
+---
+title: "dico2"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+QLemmataDictData <- readRDS("../data/QLemmataDictData.rds")
+
+```
+
+
+This page conveys lexicographical information about the lemma **`r QLemmataDictData$dico2$lemma`**.
+
+# Dictionary data
+
+::: panel-tabset
+## Cardoso.1570
+**`r QLemmataDictData$dico2$canonicalForms[1]`**
+
+`r QLemmataDictData$dico2$senses[1]`
+
+## Velez.1744
+**`r QLemmataDictData$dico2$canonicalForms[2]`**
+
+`r QLemmataDictData$dico2$senses[2]`
+
+## Pereira.1697
+**`r QLemmataDictData$dico2$canonicalForms[3]`**
+
+`r QLemmataDictData$dico2$senses[3]`
+
+## Fonseca.1798
+**`r QLemmataDictData$dico2$canonicalForms[4]`**
+
+`r QLemmataDictData$dico2$senses[4]`
+
+:::
+
+
+# Corpus data
+
+### Frequency
+`r QLemmataDictData$dico2$freqDesc`
+
+::: panel-tabset
+## Argument selection
+`r QLemmataDictData$dico2$argDesc`
+
+<iframe width="700" height="315" src="img/dico2_ArgcTree.html">
+
+</iframe>
+
+::: column-margin
+![This is a Bar Chart](../img/dico2_ArgsFreqBars.png)
+:::
+
+## Dependency Patterns
+`r QLemmataDictData$dico2$patternDesc`
+
+::: column-margin
+![Another bar chart](../img/dico2_FrameFreqBars.png)
+:::
+
+:::
+

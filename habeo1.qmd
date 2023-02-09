@@ -1,0 +1,67 @@
+---
+title: "habeo1"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+QLemmataDictData <- readRDS("../data/QLemmataDictData.rds")
+
+```
+
+
+This page conveys lexicographical information about the lemma **`r QLemmataDictData$habeo1$lemma`**.
+
+# Dictionary data
+
+::: panel-tabset
+## Cardoso.1570
+**`r QLemmataDictData$habeo1$canonicalForms[1]`**
+
+`r QLemmataDictData$habeo1$senses[1]`
+
+## Velez.1744
+**`r QLemmataDictData$habeo1$canonicalForms[2]`**
+
+`r QLemmataDictData$habeo1$senses[2]`
+
+## Pereira.1697
+**`r QLemmataDictData$habeo1$canonicalForms[3]`**
+
+`r QLemmataDictData$habeo1$senses[3]`
+
+## Fonseca.1798
+**`r QLemmataDictData$habeo1$canonicalForms[4]`**
+
+`r QLemmataDictData$habeo1$senses[4]`
+
+:::
+
+
+# Corpus data
+
+### Frequency
+`r QLemmataDictData$habeo1$freqDesc`
+
+::: panel-tabset
+## Argument selection
+`r QLemmataDictData$habeo1$argDesc`
+
+<iframe width="700" height="315" src="img/habeo1_ArgcTree.html">
+
+</iframe>
+
+::: column-margin
+![This is a Bar Chart](../img/habeo1_ArgsFreqBars.png)
+:::
+
+## Dependency Patterns
+`r QLemmataDictData$habeo1$patternDesc`
+
+::: column-margin
+![Another bar chart](../img/habeo1_FrameFreqBars.png)
+:::
+
+:::
+
