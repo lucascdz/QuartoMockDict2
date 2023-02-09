@@ -6,14 +6,14 @@ title: "dico2"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
-QLemmataDictData <- readRDS("../data/QLemmataDictData.rds")
+QLemmataDictData <- readRDS("./data/QLemmataDictData.rds")
 
 ```
 
 
 This page conveys lexicographical information about the lemma **`r QLemmataDictData$dico2$lemma`**.
 
-# Dictionary data
+## Dictionary data
 
 ::: panel-tabset
 ## Cardoso.1570
@@ -39,7 +39,7 @@ This page conveys lexicographical information about the lemma **`r QLemmataDictD
 :::
 
 
-# Corpus data
+## Corpus data
 
 ### Frequency
 `r QLemmataDictData$dico2$freqDesc`
@@ -48,19 +48,19 @@ This page conveys lexicographical information about the lemma **`r QLemmataDictD
 ## Argument selection
 `r QLemmataDictData$dico2$argDesc`
 
-<iframe width="700" height="315" src="img/dico2_ArgcTree.html">
+<iframe width="700" height="315" src="./img/dico2_ArgcTree.html">
 
 </iframe>
 
 ::: column-margin
-![This is a Bar Chart](../img/dico2_ArgsFreqBars.png)
+![This is a Bar Chart](./img/dico2_ArgsFreqBars.webp)
 :::
 
 ## Dependency Patterns
 `r QLemmataDictData$dico2$patternDesc`
 
 ::: column-margin
-![Another bar chart](../img/dico2_FrameFreqBars.png)
+![Another bar chart](./img/dico2_FrameFreqBars.webp)
 :::
 
 :::

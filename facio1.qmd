@@ -2,66 +2,67 @@
 title: "facio1"
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
-QLemmataDictData <- readRDS("../data/QLemmataDictData.rds")
+QLemmataDictData <- readRDS("./data/QLemmataDictData.rds")
 
 ```
 
-
 This page conveys lexicographical information about the lemma **`r QLemmataDictData$facio1$lemma`**.
 
-# Dictionary data
+## Dictionary data
 
 ::: panel-tabset
 ## Cardoso.1570
+
 **`r QLemmataDictData$facio1$canonicalForms[1]`**
 
 `r QLemmataDictData$facio1$senses[1]`
 
 ## Velez.1744
+
 **`r QLemmataDictData$facio1$canonicalForms[2]`**
 
 `r QLemmataDictData$facio1$senses[2]`
 
 ## Pereira.1697
+
 **`r QLemmataDictData$facio1$canonicalForms[3]`**
 
 `r QLemmataDictData$facio1$senses[3]`
 
 ## Fonseca.1798
+
 **`r QLemmataDictData$facio1$canonicalForms[4]`**
 
 `r QLemmataDictData$facio1$senses[4]`
-
 :::
 
-
-# Corpus data
+## Corpus data
 
 ### Frequency
+
 `r QLemmataDictData$facio1$freqDesc`
 
 ::: panel-tabset
 ## Argument selection
+
 `r QLemmataDictData$facio1$argDesc`
 
-<iframe width="700" height="315" src="img/facio1_ArgcTree.html">
+<iframe width="700" height="315" src="./img/facio1_ArgcTree.html">
 
 </iframe>
 
 ::: column-margin
-![This is a Bar Chart](../img/facio1_ArgsFreqBars.png)
+![This is a Bar Chart](./img/facio1_ArgsFreqBars.webp)
 :::
 
 ## Dependency Patterns
+
 `r QLemmataDictData$facio1$patternDesc`
 
 ::: column-margin
-![Another bar chart](../img/facio1_FrameFreqBars.png)
+![Another bar chart](./img/facio1_FrameFreqBars.webp)
 :::
-
 :::
-
