@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html#quarto",
+    "href": "index.html#quarto",
+    "title": "Title",
+    "section": "0.1 Quarto",
+    "text": "0.1 Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html#running-code",
+    "href": "index.html#running-code",
+    "title": "Title",
+    "section": "0.2 Running Code",
+    "text": "0.2 Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "dico2.html#dictionary-data",
+    "href": "dico2.html#dictionary-data",
+    "title": "2  dico2",
+    "section": "2.1 Dictionary data",
+    "text": "2.1 Dictionary data\n\nCardoso.1570Velez.1744Pereira.1697Fonseca.1798\n\n\nDico, is, xi, ctum.\ndizer, activo.\n\n\nDico, dicis.\ndizer, declarar; ut dic mihi hoc primum; dicere contumeliā alicui. Injuriar; dicere reo diem. Citar; dicere dotem filiae. Prometer dote.\n\n\nDico, is, xi, ctum,\nDizer, Decir. I. lon. Virg. Ecl. 10. Vestra meos olim si fistula dicat amores.\n\n\nDīco, is, īxi, īctum, ĕre,\nCic. Dizer, fallar. Liv. Eleger. Dicere diem alicui. Cic. Assinar dia para apparecer em juizo. — salutem. Cic. Saudar, enviar saúde."
+  },
+  {
+    "objectID": "dico2.html#corpus-data",
+    "href": "dico2.html#corpus-data",
+    "title": "2  dico2",
+    "section": "2.2 Corpus data",
+    "text": "2.2 Corpus data\n\n2.2.1 Frequency\ndico2 is the 2 th most frequent verbal lemma in the corpus\n\nArgument selectionDependency Patterns\n\n\nOBJ is the most frequent Argument Type for dico2\n\n\n\n\n\n\n\nThis is a Bar Chart\n\n\n\n\nOBJ , [Absolute] and OBJ|SBJ are the three most frequent Dependency Patterns for dico2\n\n\n\n\n\nAnother bar chart"
+  },
+  {
+    "objectID": "facio1.html#dictionary-data",
+    "href": "facio1.html#dictionary-data",
+    "title": "3  facio1",
+    "section": "3.1 Dictionary data",
+    "text": "3.1 Dictionary data\n\nCardoso.1570Velez.1744Pereira.1697Fonseca.1798\n\n\nFacio, is, eci, actum.\nfazer. Estimar: cum genitivo, tanti quanti, etc. Facio officium. faço o que devo, ou o a que sou obrigado. Facio sponsionem. Apostar. Facio verba cum aliquo. Pratico com alguém. Facio verbum alicui. falo a alguém. Facio vela. Navegar.\n\n\nFacio, is.\nFazer, estimar.\n\n\nFacio, is, eci, actum,\nFazer, ou estimar. Hazer. I. bre. Virg. 1. Aen. — et pulchra faciam te prole parentem.\n\n\nFăcĭo, is, fēci, fāctum, ĕre,\nCic. Fazer, executar. Estimar, prezar. Sacrificar. Ovid. Ser util, conveniente."
+  },
+  {
+    "objectID": "facio1.html#corpus-data",
+    "href": "facio1.html#corpus-data",
+    "title": "3  facio1",
+    "section": "3.2 Corpus data",
+    "text": "3.2 Corpus data\n\n3.2.1 Frequency\nfacio1 is the 4 th most frequent verbal lemma in the corpus\n\nArgument selectionDependency Patterns\n\n\nOBJ is the most frequent Argument Type for facio1\n\n\n\n\n\n\n\nThis is a Bar Chart\n\n\n\n\nOBJ , OBJ|SBJ and [Absolute] are the three most frequent Dependency Patterns for facio1\n\n\n\n\n\nAnother bar chart"
+  },
+  {
+    "objectID": "habeo1.html#dictionary-data",
+    "href": "habeo1.html#dictionary-data",
+    "title": "4  habeo1",
+    "section": "4.1 Dictionary data",
+    "text": "4.1 Dictionary data\n\nCardoso.1570Velez.1744Pereira.1697Fonseca.1798\n\n\nHabeo, es, ui, itum.\nTer ou entender. Habeo fidem. Dar crédito. Habeo orationem. Fazer oração em público. Habeo rationem. Ter respeito. Habeo curae. Ter em cuidado.\n\n\nHabeo, es.\nTer, estimar, agradecer, crer, honrar.\n\n\nHabeo, es, bui, bitum,\nter, crer, entender, honrar. I. bre. Virg. 12. Aen. Sic habet haec melior magnis data victima diuis.\n\n\nHăbĕo, es, ui, ĭtum, ēre,\nCic. Ter, possuir. Habitar. estimar, prezar, imaginar, crer, persuadir-se. Sall. Demorar, retardar, deter. Virg. Occupar. Habere certum, exploratum, cognitum, compertum, perspectum, pro certo, pro comperto. Cic. Saber com certeza, estar perfeitamente informado. — religioni. Cic. Fazer escrúpulo de consciencia. — benè l. bellè Cic. Estar com boa saude. — malè. Cic. Estar doente. — aliquem nullo loco. Cic. in levi. Ter. pro stercore. Plaut. Desprezar, fazer pouco caso. — rationem cum terrâ. Cic. Cultivar a terra. — aliquem despicatui. Plaut. Desprezar alguem."
+  },
+  {
+    "objectID": "habeo1.html#corpus-data",
+    "href": "habeo1.html#corpus-data",
+    "title": "4  habeo1",
+    "section": "4.2 Corpus data",
+    "text": "4.2 Corpus data\n\n4.2.1 Frequency\nhabeo1 is the 3 th most frequent verbal lemma in the corpus\n\nArgument selectionDependency Patterns\n\n\nOBJ is the most frequent Argument Type for habeo1\n\n\n\n\n\n\n\nThis is a Bar Chart\n\n\n\n\nOBJ , OBJ|SBJ and [Absolute] are the three most frequent Dependency Patterns for habeo1\n\n\n\n\n\nAnother bar chart"
+  },
+  {
+    "objectID": "sum1.html#dictionary-data",
+    "href": "sum1.html#dictionary-data",
+    "title": "5  sum1",
+    "section": "5.1 Dictionary data",
+    "text": "5.1 Dictionary data\n\nCardoso.1570Velez.1744Pereira.1697Fonseca.1798\n\n\nSum, es, fui.\nser, ou estar, ou ter, ou estimar ou haver mister.\n\n\nSum, es, fui,\nser, ou estar. Por ser de alguem, convir, ou pertencer, gen. Por ser estimado, ou valer, gen. vel ablat. pretij. Por ter, ou ser tido, dativ. personae habentis; ut: est mihi liber unus, sunt tibi duo: additur, & alius dativ. pro cujus diversitate diversa significat, scilicet, cum dativ. Odio, significat, causar odio, ou ser de odio a alguem, ut: Vitium bonis odio est, os bons aborrecem os vicios. hoc tibi crimen non erit, naõ vos será isto de crime, ou naõ se vos attribuirá a crime; & sic de aliis: saepè solus dativ. rei ponitur; ut: Id miraculo fuit, foi tido por milagre, ou foi cousa milagrosa. Indicio esse, ser de indicio, ou mostra, etc.§ Dicimus etiam: Est mihi malè, estou mal de saude. Est mihi meliús, estou melhor: Est mihi minùs cum illo, tenho menos famillaridade com elle. Est, pro Licet sine casu, ut: Cernere erat, era licito, ou podia se ver. Es, est, & c. por comer, accus. Vide Futurus. 218. 30. 220. 30. 324. 2.\n\n\nsum, es, est,\nSer, estar, aver, ter, estimar.\n\n\nSum, es, fui, ēsse,\nCic. Ser, estar, ser tido, ser estimado, valer, pertencer, causar, etc."
+  },
+  {
+    "objectID": "sum1.html#corpus-data",
+    "href": "sum1.html#corpus-data",
+    "title": "5  sum1",
+    "section": "5.2 Corpus data",
+    "text": "5.2 Corpus data\n\n5.2.1 Frequency\nsum1 is the 1 th most frequent verbal lemma in the corpus\n\nArgument selectionDependency Patterns\n\n\nSBJ is the most frequent Argument Type for sum1\n\n\n\n\n\n\n\nThis is a Bar Chart\n\n\n\n\n[Absolute] , PNOM|SBJ and SBJ are the three most frequent Dependency Patterns for sum1\n\n\n\n\n\nAnother bar chart"
+  }
+]
